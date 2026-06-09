@@ -5,14 +5,14 @@
 ---
 
 ## 🚀 관심 분야
-- 임베디드 시스템
-- 프로그램 최적화
+- 임베디드 펌웨어 개발
+- 임베디드 임베디드 하드웨어 설계
 
 ---
 
 ## 💻 사용 가능한 기술
 - **Languages:** Java, Python, C++, C
-- **Tools & Frameworks:** Git, Linux, Docker, IntelliJ IDEA, Visual Studio
+- **Tools & Frameworks:** Git, Linux, Docker, IntelliJ IDEA, PyCharm, Visual Studio, STM32 Cube, Arduino
 
 ---
 
@@ -25,8 +25,3 @@
 
 ## 📫 연락처
 - Email: ballsun1003@naver.com
-
----
-
-아직 있는건 별로 없지만 천천히 둘러봐 주세요~ 😄
-
